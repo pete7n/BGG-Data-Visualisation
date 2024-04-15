@@ -29,7 +29,7 @@ Prepared the data in excel and uploaded it into the S3 bucket: <br/>
 <img src="https://imgur.com/0Vo9jxc.png" height="80%" width="80%" alt="BGG QuickSight"/>
 <br />
 <br />
-Editted and uploaded a manifest JSON file to point QuickSight to S3 bucket and the csv data file:  <br/>
+Edited and uploaded a manifest JSON file to point QuickSight to S3 bucket and the csv data file:  <br/>
 <img src="https://imgur.com/CejWAlo.png" height="80%" width="80%" alt="BGG QuickSight"/>
 <br />
 <br />
