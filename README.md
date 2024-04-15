@@ -1,4 +1,4 @@
-<h1>CV Static Website</h1>
+<h1>Data Visualisation</h1>
 
 <h2>Description</h2>
 Used Amazon QuickSight and S3 to visualise data of my board game collection.
