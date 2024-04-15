@@ -12,6 +12,7 @@ Used Amazon QuickSight and S3 to visualise data of my board game collection.
 <h2>Other Products Used</h2>
 
 - <b>Microsoft Excel</b>
+- <b>Windows Notepad</b>
 
 <h2>Project Stages:</h2>
 
